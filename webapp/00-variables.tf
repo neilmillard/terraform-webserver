@@ -27,7 +27,7 @@ variable "public_subnet_cidr" {
 
 variable "aws_subnet_public" {
   default = "subnet-f1b1c094"
-  name = "interviewUser1_SN_Public"
+  name = "Public subnet 2"
 }
 
 variable "aws_" {}
